@@ -127,7 +127,7 @@ export default function Contact() {
               </a>
             </div>
             <p className="text-center text-gray-500 text-sm mt-3">
-              📄 PDF Format • Updated 2025
+              📄 PDF Format • Updated June 2026
             </p>
           </motion.div>
 
